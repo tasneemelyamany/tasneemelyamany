@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tasneemelyamany
-- 👀 I’m interested in Machine Learning and Computer vision
-- 🌱 I’m currently seeking to learn more about the techniques and how to apply them in a real projects
-
-
+-  Hi, I’m @tasneemelyamany
+- I am a passionate computer engineering student who is persuing away trending technologies and how to apply them to real-world problems.
+-  I’m interested in Machine Learning.
+-  I’m currently seeking to learn more about machine learning techniques, Computer vision, and how to apply them in real projects
