@@ -1,2 +1,1 @@
--  Hi, I’m @tasneemelyamany
-- I am a passionate computer engineering student who is persuing away trending technologies and how to apply them to real-world problems. I’m interested in Machine Learning.Currently, I am seeking to learn more about machine learning techniques, Computer vision, and how to apply them in real projects.
+Software Engineer specializing in full-stack development and AI technologies. Computer and Communication Engineering graduate.
